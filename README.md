@@ -7,9 +7,9 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqraaslam2207-collab&show_icons=true&theme=dark&hide_border=true" alt="Iqra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iqraaslam2207-collab&show_icons=true&theme=dark" alt="Iqra's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqraaslam2207-collab&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqraaslam2207-collab&theme=dark" alt="GitHub Streak" />
 </p>
