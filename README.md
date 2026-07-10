@@ -1,20 +1,26 @@
 # Hi there, I'm Iqra! 👋
 
-Frontend Developer from Faisalabad, Pakistan. I build clean, modern and responsive websites.
+**Frontend Developer** | Building clean & modern websites
 
-## 💻 Tech Stack
-- HTML5
-- CSS3 & Tailwind CSS
-- JavaScript
-- React & Next.js (Learning)
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqraaslam2207-collab&show_icons=true&theme=radical)
+### 💻 Tech Stack
 
-## Featured Projects
-- [Roamify Travels](https://github.com/iqraaslam2207-collab/roamify-travels) - Modern Travel Agency Landing Page
-- [Portfolio](https://github.com/iqraaslam2207-collab/port)
-- [Daraz Clone](https://github.com/iqraaslam2207-collab/daraz-clone)
-- [Holiday Directory](https://github.com/iqraaslam2207-collab/holiday-directory)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
-Open to freelance opportunities!
+---
+
+### Featured Projects
+
+- **Roamify Travels** - Modern Travel Agency Landing Page (Next.js)
+- **Daraz Clone** - Responsive E-commerce Homepage
+- **Holiday Directory** - Vacation Rental Website
+- **Personal Portfolio** - This Website
+
+---
+
+**Open to Freelance Work** | Faisalabad, Pakistan
