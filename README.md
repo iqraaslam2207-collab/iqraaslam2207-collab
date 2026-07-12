@@ -10,7 +10,7 @@ A passionate Frontend Developer from Pakistan, dedicated to building clean, mode
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iqraaslam2207-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=iqraaslam2207-collab&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iqraaslam2207-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=python,typescript,powershell)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 * **🛒 daraz-clone**
