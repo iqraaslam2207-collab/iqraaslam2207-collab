@@ -20,7 +20,7 @@ A Frontend Developer from Pakistan, building clean and modern web applications.
 * **🛒 daraz-clone**
 * **🌍 holiday-directory**
 * **✈️ roamify-travels**
-* **💼 port**
+* **💼 portfolio**
 
 ---
 
