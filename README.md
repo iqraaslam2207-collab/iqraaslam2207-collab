@@ -15,18 +15,8 @@ A passionate Frontend Developer from Pakistan, dedicated to building modern, hig
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqraaslam2207-collab&show_icons=true&theme=radical&hide_border=true" alt="Iqra's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqraaslam2207-collab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 🛠️ Featured Projects
 
-* **⚡ Aether AI** – A modern AI application built with Next.js and Tailwind CSS.
 * **🌍 Roamify Travels** – A fully optimized travel and booking directory web application.
 * **🛒 Daraz Clone** – An e-commerce clone focusing on complex frontend layouts and UI.
 
