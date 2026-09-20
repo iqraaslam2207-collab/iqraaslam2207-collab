@@ -12,10 +12,14 @@ I build web applications with the **MERN stack** — **MongoDB**, **Express.js**
 
 | Project | Live demo that works | GitHub |
 | --- | --- | --- |
+| Portfolio | [GitHub Pages](https://iqraaslam2207-collab.github.io/port/) | [port](https://github.com/iqraaslam2207-collab/port) |
 | Daraz Clone | [Netlify](https://daraz-clone.netlify.app/) · [GitHub Pages](https://iqraaslam2207-collab.github.io/daraz-clone/) | [daraz-clone](https://github.com/iqraaslam2207-collab/daraz-clone) |
 | Holiday Directory | [GitHub Pages](https://iqraaslam2207-collab.github.io/holiday-directory/home.html) | [holiday-directory](https://github.com/iqraaslam2207-collab/holiday-directory) |
 | Roamify Travels | [Netlify](https://roamify-travels.netlify.app/) | [roamify-travels](https://github.com/iqraaslam2207-collab/roamify-travels) |
-| Portfolio (new) | Connect the `portfolio-next` branch on Netlify | [port / portfolio-next](https://github.com/iqraaslam2207-collab/port/tree/portfolio-next) |
+| Nestora Design | [GitHub Pages](https://iqraaslam2207-collab.github.io/Nestora-Design/) | [Nestora-Design](https://github.com/iqraaslam2207-collab/Nestora-Design) |
+| Maison Soleil | [GitHub Pages](https://iqraaslam2207-collab.github.io/hotel-booking-confirmation/) | [hotel-booking-confirmation](https://github.com/iqraaslam2207-collab/hotel-booking-confirmation) |
+| Calculator | [GitHub Pages](https://iqraaslam2207-collab.github.io/CodeAlpha-Calculator/) | [CodeAlpha-Calculator](https://github.com/iqraaslam2207-collab/CodeAlpha-Calculator) |
+| Image Gallery | [GitHub Pages](https://iqraaslam2207-collab.github.io/-CodeAlpha-Image-Gallery-/) | [-CodeAlpha-Image-Gallery-](https://github.com/iqraaslam2207-collab/-CodeAlpha-Image-Gallery-) |
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=iqraaslam2207-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
