@@ -13,7 +13,7 @@ I build responsive pages with **HTML**, **CSS**, **JavaScript**, **React**, and 
 | Project | What it is | Live | GitHub |
 | --- | --- | --- | --- |
 | Daraz shop | Storefront with search, flash sale, cart, and English/Urdu | [Open](https://daraz-shop.vercel.app) | [daraz-clone](https://github.com/iqraaslam2207-collab/daraz-clone) |
-| Amazon shop | React shop with search, product pages, cart, and accounts | [Open](https://amazon-shop-two.vercel.app) | Local project |
+| Amazon shop | React shop with search, product pages, cart, and accounts | [Open](https://amazon-shop-two.vercel.app) | [amazon-shop](https://github.com/iqraaslam2207-collab/amazon-shop) |
 | Roamify Travels | Next.js travel site with destinations and a booking inquiry | [Open](https://roamify-travels-alpha.vercel.app) | [roamify-travels](https://github.com/iqraaslam2207-collab/roamify-travels) |
 | Canva-style studio | Design page where a layout can be started, moved, and resized | [Open](https://canva-pro-one.vercel.app) | [canva-pro](https://github.com/iqraaslam2207-collab/canva-pro) |
 | Nestora Design | React studio site | [Open](https://nestora-design.vercel.app) | [Nestora-Design](https://github.com/iqraaslam2207-collab/Nestora-Design) |
